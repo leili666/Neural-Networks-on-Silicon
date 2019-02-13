@@ -481,6 +481,7 @@ This is a collection of papers on other important topics related to neural netwo
 - [A Survey of Neuromorphic Computing and Neural Networks in Hardware.](https://arxiv.org/abs/1705.06963) (Oak Ridge National Lab)
 - [A Survey of FPGA Based Neural Network Accelerator.](https://arxiv.org/abs/1712.08934) (Tsinghua)
 - [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions.](https://arxiv.org/abs/1803.05900) (Imperial College London)
+- [Accelerating CNN inference on FPGAs: A Survey](https://hal.archives-ouvertes.fr/hal-01695375/file/hal-accelerating-cnn.pdf)(Institut Pascal,Clermont Ferrand, France) *HAL 201801*
 
 ### Benchmarks
 - [DAWNBench](https://dawn.cs.stanford.edu//benchmark/): An End-to-End Deep Learning Benchmark and Competition. (Stanford)
